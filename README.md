@@ -18,6 +18,7 @@ Little note: When I used [gulp-concat] before [gulp-uglify] ```sources``` became
 I just want to minify single file and create the map for it.
 
 So I created this repository to figure out what I do wrong. The [single-file-source-map.js](single-file-source-map.js) is the gulp-plugin that should fix behaviour of [gulp-sourcemaps] for my project.
+Folder and HTML-file with suffix _without-fixes_ imagine how files was generated without using of my plugin.
 
 Small note: I use Windows 7.
 
