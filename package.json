@@ -1,0 +1,12 @@
+{
+    "name": "single-file-source-map-example",
+    "version": "0.0.1",
+
+    "devDependencies" : {
+        "gulp": "*",
+        "gulp-uglify": "*",
+        "gulp-rename": "*",
+        "gulp-sourcemaps": "*",
+        "through2": "*"
+    }
+}
